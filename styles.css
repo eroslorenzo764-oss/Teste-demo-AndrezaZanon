@@ -140,10 +140,8 @@ em{ font-style: italic; color: var(--olive); }
 .btn-formu{
     background: var(--indigo-deep);
    color: #ffff;
-   padding: 2rem;
   border: 1.5px solid var(--indigo-deep);
-    border-radius: 10px;
-    text-decoration: none;
+
     
 }
 .btn-formu:hover{
